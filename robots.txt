@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://usdconverters.com/sitemap.xml
